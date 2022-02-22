@@ -11,7 +11,7 @@
 </b></br>
 :ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید
 <br><pre>
-git clone https://github.com/HACKGM/clipboard 
+git clone https://github.com/tHACKGM/clipboard 
 </pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
